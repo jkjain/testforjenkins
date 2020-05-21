@@ -1,1 +1,1 @@
-w;sleep 15;df
+w;sleep 15;df;ls
