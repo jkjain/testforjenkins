@@ -1,1 +1,1 @@
-free -m;sleep 10;ls;echo "good"
+free -m;sleep 10;df;ls;echo "good"
